@@ -1,10 +1,20 @@
-# React Digital Card
+# Travel Journal 
 
 
-This project is a simple digital card built using React. It allows users to create their own personalized digital card by providing their name, occupation, and an image. The card is then rendered with the provided information in a visually appealing format.
+This project is a delightful travel journey built using React. It showcases a collection of breathtaking destinations that one can aspire to visit. The purpose of this project is to inspire and provide a visual experience of numerous awe-inspiring places around the world.
+
+## Features
+* Eye-catching and immersive design
+* Multiple wonderful places to explore
+* Interactive user interface
+* Easy navigation and intuitive controls
+## Technologies Used
+- React: A JavaScript library for building user interfaces
+- HTML: Markup language for structuring web pages
+- CSS: Styling language for enhancing the appearance of web pages
 
 
-Open [Digital Card](https://epciy-card.netlify.app/) 
+Open [Travel Journal ](https://soultrip.netlify.app/) 
 
 
 
